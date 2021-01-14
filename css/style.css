@@ -1,0 +1,26 @@
+.Penguin-card{
+    border: 0;
+}
+.Penguin-card-footer{
+    background-color: white;
+    border: 0;
+
+}
+.categories img{
+  width: 100px;
+}
+.Penguin-slide .carousel-item{
+    border-radius: 1em;
+}
+.Penguin-card-footer span{
+    font-size: 20px;
+}
+.Penguin-slide .carousel-item span{
+    color: gold;
+}
+.categories{
+  width: 40%;
+}
+.pic{
+    width: 50%;
+}

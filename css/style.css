@@ -19,8 +19,16 @@
     color: gold;
 }
 .categories{
-  width: 40%;
+ 
 }
 .pic{
-    width: 50%;
+
 }
+@media (max-width: 575.98px) { 
+    .categories{
+        width: 100%;
+    }
+    .pic{
+    width: 100%;
+    }
+ }
